@@ -1,0 +1,27 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+.cache/
+tests/.tmp/
+
+# Local inputs and generated output
+Screenshots/
+*.png
+*.jpg
+*.jpeg
+*.heic
+*.tif
+*.tiff
+*.pdf
+*.part
+*.ready
+
+# Internal planning records
+.superpowers/
+docs/superpowers/
+
+# Local instructions and secrets
+AGENTS.md
+.env
+.env.*
